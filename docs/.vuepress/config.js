@@ -3,6 +3,7 @@ module.exports = {
     description: "Koottu kirjasto lukion ohjelmille",
 
     searchMaxSuggestions: 7,
+    serviceWorker: true,
 
     themeConfig: {
         nav: [

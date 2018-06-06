@@ -9,8 +9,8 @@ module.exports = {
             {text: "Etusivu", link:"/"},
             {text: "Ohjeet",
                 items: [
-                    {text:"Kemia", link:"/kemia/"},
-                    {text:"Fysiikka", link:"/fysiikka/"},
+                    {text:"Kemia", link:"/ohjeet/kemia/"},
+                    {text:"Fysiikka", link:"/ohjeet/fysiikka/"},
                 ]
             },
             {text:"Osallistu kehittämiseen", link:"/osallistu/"}

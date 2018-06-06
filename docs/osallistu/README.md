@@ -14,4 +14,4 @@ Normaa kehitetään [Gitubissa](https://github.com/siikanen/norma)
 
 ### Kysyttävää? Risuja tai ruusuja?
 
-Jos kaipaat apua tai sinulla on muuten vain kysyttävää ästä sivutsa, voit ottaa suoraan yhteyttä projektin perustajaan [santeri.siiranen@gmail.com](mailto:santeri.siiranen@gmail.com)
+Jos kaipaat apua tai sinulla on muuten vain kysyttävää täsä sivusta, voit ottaa suoraan yhteyttä projektin perustajaan [santeri.siiranen@gmail.com](mailto:santeri.siiranen@gmail.com)

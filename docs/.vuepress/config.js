@@ -1,6 +1,6 @@
 module.exports = {
     title: "Norma",
-    description: "Koottu kirjasto lukion ohjelmille",
+    description: "Koottu kirjasto lukion ohjelmille 🎓",
 
     searchMaxSuggestions: 7,
     serviceWorker: true,

@@ -1,21 +1,35 @@
-module.exports = {
-    title: "Norma",
-    description: "Koottu kirjasto lukion ohjelmille 🎓",
+module.exports = {    
+    locales: {
+        "/": {
+            lang: "fi",
+            title: "Norma",
+            description: "Koottu kirjasto lukion ohjelmille 🎓"
+        }
+    },
 
     searchMaxSuggestions: 7,
     serviceWorker: true,
 
+    theme: "vue",
     themeConfig: {
-        nav: [
-            {text: "Etusivu", link:"/"},
-            {text: "Ohjeet",
-                items: [
-                    {text:"Kemia", link:"/ohjeet/kemia/"},
-                    {text:"Fysiikka", link:"/ohjeet/fysiikka/"},
+        repo: "siikanen/norma",
+        locales: {
+            "/": {            
+                editLinkText: 'Muokkaa tätä sivua GitHubissa',
+                lastUpdated: 'Päivitetty',
+
+                nav: [
+                    {text: "Etusivu", link:"/"},
+                    {text: "Ohjeet",
+                        items: [
+                            {text:"Kemia", link:"/ohjeet/kemia/"},
+                            {text:"Fysiikka", link:"/ohjeet/fysiikka/"},
+                        ]
+                    },
+                    {text:"Osallistu kehittämiseen", link:"/osallistu/"}
                 ]
             },
-            {text:"Osallistu kehittämiseen", link:"/osallistu/"}
-        ]
+        },
     },
 
     head: [

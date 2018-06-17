@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://norma.netlify.com/* https://norma.siika.coffee/:splat 301!

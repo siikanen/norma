@@ -17,7 +17,7 @@ module.exports = {
         editLinks: true,     
         editLinkText: 'Muokkaa tätä sivua GitHubissa',
         lastUpdated: 'Päivitetty',
-        repoLabel: 'Osallistu!',
+        repoLabel: 'Github',
         docsRepo: 'siikanen/norma',
         docsDir: 'docs',
         docsBranch: 'master',

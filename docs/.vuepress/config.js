@@ -9,6 +9,7 @@ module.exports = {
 
     searchMaxSuggestions: 7,
     serviceWorker: true,
+    ga: UA-123582772-1,
 
     theme: "vue",
     themeConfig: {

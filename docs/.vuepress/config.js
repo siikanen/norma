@@ -9,16 +9,21 @@ module.exports = {
 
     searchMaxSuggestions: 7,
     serviceWorker: true,
-    ga: UA-123582772-1,
+    ga: 'UA-123582772-1',
 
     theme: "vue",
     themeConfig: {
         repo: "siikanen/norma",
         locales: {
-            "/": {            
+            "/": {
+                editLinks: true,     
                 editLinkText: 'Muokkaa tätä sivua GitHubissa',
                 lastUpdated: 'Päivitetty',
-
+                repoLabel: 'Osallistu!',
+                docsRepo: 'siikanen/norma',
+                docsDir: 'docs',
+                docsBranch: 'master',
+                
                 nav: [
                     {text: "Etusivu", link:"/"},
                     {text: "Ohjeet",

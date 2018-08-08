@@ -14,16 +14,17 @@ module.exports = {
     theme: "vue",
     themeConfig: {
         repo: "siikanen/norma",
+        editLinks: true,     
+        editLinkText: 'Muokkaa tätä sivua GitHubissa',
+        lastUpdated: 'Päivitetty',
+        repoLabel: 'Osallistu!',
+        docsRepo: 'siikanen/norma',
+        docsDir: 'docs',
+        docsBranch: 'master',
+
         locales: {
             "/": {
-                editLinks: true,     
-                editLinkText: 'Muokkaa tätä sivua GitHubissa',
-                lastUpdated: 'Päivitetty',
-                repoLabel: 'Osallistu!',
-                docsRepo: 'siikanen/norma',
-                docsDir: 'docs',
-                docsBranch: 'master',
-                
+                lastUpdated: 'Päivitetty',               
                 nav: [
                     {text: "Etusivu", link:"/"},
                     {text: "Ohjeet",

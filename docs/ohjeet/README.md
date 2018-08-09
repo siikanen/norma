@@ -1,3 +1,8 @@
+---
+editLink: false
+lastUpdated: off
+---
+
 # Ohjeet yläsivu
 
 ## [Yleiset 💾](/ohjeet/yleiset/)

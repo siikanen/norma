@@ -1,17 +1,17 @@
 # Ohjeet yläsivu
 
-## [Yleiset](/ohjeet/yleiset/)
+## [Yleiset 💾](/ohjeet/yleiset/)
 
 Yleishyödylliset ohjelmat koulunkäyntiin LibreOffice Java jne.
 
-## [Kemia](/ohjeet/kemia/)
+## [Matematiikka 🃏](/ohjeet/matematiikka/)
 
-Kaikki kemiaan liittyvä ohjelmisto
+Kaikki matematiikkaan liittyvä ohjelmisto Texas NSpire, Geogebra jne.
 
-## [Fysiikka](/ohjeet/fysiikka/)
+## [Fysiikka 📏](/ohjeet/fysiikka/)
 
 Kaikki fysiikkaan liittyvä ohjelmisto
 
-## [Matematiikka](/ohjeet/matematiikka/)
+## [Kemia 💉](/ohjeet/kemia/)
 
-Kaikki matematiikkaan liittyvä ohjelmisto Texas NSpire, Geogebra jne.
+Kaikki kemiaan liittyvä ohjelmisto

@@ -1,8 +1,4 @@
----
-sidebar: auto
----
-
-# Fysiikka
+# Matematiikka
 
 ## Texas Instruments TI-NSpire Student Software
 

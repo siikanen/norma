@@ -2,7 +2,13 @@
 sidebar: auto
 ---
 
+::: danger Huom
+Tällä sivulla ei ole vielä oikeaa sisältöä. Näkyvä sisältö on vain malliksi sivun kehitykseen
+:::
+
 # Kemia
+
+Kemiassa hyödynnettävä ohjelmisto
 
 ## Ohjelma 1
 

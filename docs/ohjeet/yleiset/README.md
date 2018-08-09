@@ -35,6 +35,8 @@ Ellei asennusohjelman kieli ole suomi, voi olla ettei se tunnistanut kieltäsi o
 
 ## Java
 
+![Java-logo](/images/java.png)
+
 ### Mikä Java?
 
 Java on ohjelmistopohja, joka mahdollistaa _Java-ohjelmien_ ajamisen tietokoneella. Java on saatavilla kaikille suurille käyttöjärjestelmille (Windows, Mac, Linux jne.) ja se mahdollistaa saman _Java_-pohjaisen ohjelman ajamisen eri alustoilla. Tämä on ohjelman kehittäjän kannalta mielekästä, sillä ohjelmasta ei tarvitse tehdä kuin yksi versio joka toimii kaikilla alustoilla samalla tavalla. 

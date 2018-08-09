@@ -4,11 +4,15 @@ sidebar: auto
 
 # Fysiikka
 
+Fysiikan tunneilla tarvittavat ohjelmat
+
 ## Texas Instruments TI-NSpire Student Software
 
 ### Mikä TI-NSpire CX CAS Student Software
 
 TI-NSpire CX CAS Student Software on YTL:n ylioppilaskirjoituksissa käytettävksi hyväksymän TI-Nsipre-laskimen tietokoneversio. TI-NSpire CX CAS Student Software löytyy myös abitin ohjelmistovalikoimasta, joten seon käytettävissä myös koetilanteessa.
+
+![NSpire-Logo](/images/NSpire.gif)
 
 ### Asennus
 
@@ -28,5 +32,6 @@ Tarvitset lisenssin TI-NSpire CX CAS Student Softwaren käyttämiseen. Ohjelmast
 4. TI-NSpire CX CAS Student Software on nyt asennettu ja valmis käyttöön
 
 ::: tip Apua suoraan ohjekirjasta 📕
-Löydät TI-NSpire CX CAS Student Softwaren käyttöohjeen [täältä!](https://education.ti.com/download/fi/ed-tech/19A8C956FAD4460C91F04F6D24F167FE/CACFD97619DA4B8EBBCDDF3660367119/TI-NSpire_CX_SS_Guidebook_FI.pdf)
+Löydät TI-NSpire CX CAS Student Softwaren käyttöohjeen [täältä!](https://education.ti.com/download/fi/ed-tech/19A8C956FAD4460C91F04F6D24F167FE/CACFD97619DA4B8EBBCDDF3660367119/TI-NSpire_CX_SS_Guidebook_FI.pdf) Ohje on pitkä - älä unohda hakutoimintoa _Ctrl+F tai cmd+F_ 🔎
 :::
+

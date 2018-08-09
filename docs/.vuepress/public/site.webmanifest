@@ -1,7 +1,6 @@
 {
     "name": "Norma",
     "short_name": "Norma",
-    "lang": "fi",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -14,8 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#3eaf7c",
-    "background_color": "#3eaf7c",
-    "start_url": "/",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone"
 }

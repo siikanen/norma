@@ -8,7 +8,8 @@ sidebar: auto
 
 ## LibreOffice
 
-![LibreOffice](/images/Libre-logo.jpg)
+<p align="center"><img src="/images/Libre-logo.jpg" alt="LibreOffice-logo" height="200"></p>
+
 
 ### Mikä LibreOffice?  
 
@@ -35,7 +36,7 @@ Ellei asennusohjelman kieli ole suomi, voi olla ettei se tunnistanut kieltäsi o
 
 ## Java
 
-![Java-logo](/images/java.png)
+<p align="center"><img src="/images/java.png" alt="mark text" width="200" height="200"></p>
 
 ### Mikä Java?
 
@@ -56,3 +57,22 @@ Huono puoli on kuitenkin siinä, että _Java_-täytyy asentaa jokaiselle koneell
 ::: tip Käyttöjärjestelmän tunnistus
 Javaa ladattaessa käyttöjärjestelmäsi pitäisi olla automaattisesti tunnistettu - jos automaattinen tunnistus ei toimi, löydät kaikki versiot [täältä](https://www.java.com/en/download/manual.jsp)
 :::
+
+## Marktext
+
+<p align="center"><img src="/images/marktext-logo.png" alt="mark text" width="200" height="200"></p>
+
+### Mikä Marktext?
+
+Marktext on tekstieditori, joka on erikoistunut nimenomaan [_Markdownin_](https://dillinger.io/) kirjoittamiseen. _Markdown_ on kevyt markup kieli, joka on helppoutensa takia erittäin suosittu esimerkiksi kirjailijoiden keskuudessa. Myös _Norman_ sivut on kirjoitettu markdownilla. Tutustu myös Norman artikkeliin _"Mikä ihmeen Markdown?!"_
+
+### Asennus
+
+1. Lataa tuorein omalle käyttöjärjestelmällesi sopiva versio alla olevasta linkistä
+    - [Marktext 0.12.25 - Windows](https://github.com/marktext/marktext/releases/download/v0.12.25/marktext-setup-0.12.25.exe)
+    - [Marktext 0.12.25 - Mac OSX](https://github.com/marktext/marktext/releases/download/v0.12.25/marktext-0.12.25.dmg)
+    - [Marktext 0.12.25 - Linux](https://github.com/marktext/marktext/releases/download/v0.12.25/marktext_0.12.25_amd64.snap)  - [Asennusohje snap-paketeille](https://docs.snapcraft.io/core/install)
+
+2. Avaa lataamasi tiedosto ja seuraa ohjeita
+
+3. Iloitse muistiinpanojen kirjoittamisesta ja perehdy Norman _[Markdown Cheatsheettiin](/)_ 🤩

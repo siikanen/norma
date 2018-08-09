@@ -8,7 +8,7 @@ sidebar: auto
 
 ## LibreOffice
 
-<p align="center"><img src="/images/Libre-logo.jpg" alt="LibreOffice-logo" height="200"></p>
+<p align="center"><img src="/images/Libre-logo.jpg" alt="LibreOffice-logo" max-height="200"></p>
 
 
 ### Mikä LibreOffice?  

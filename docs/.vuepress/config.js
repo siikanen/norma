@@ -29,8 +29,10 @@ module.exports = {
                     {text: "Etusivu", link:"/"},
                     {text: "Ohjeet",
                         items: [
+                            {text:"Yleiset", link:"/ohjeet/yleiset/"},
+                            {text:"Matematiikka", link:"/ohjeet/matematiikka/"},
                             {text:"Kemia", link:"/ohjeet/kemia/"},
-                            {text:"Fysiikka", link:"/ohjeet/fysiikka/"},
+                            {text:"Fysiikka", link:"/ohjeet/fysiikka/"}
                         ]
                     },
                     {text:"Osallistu kehittämiseen", link:"/osallistu/"}

@@ -4,6 +4,8 @@ sidebar: auto
 
 # Yleishyödylliset ohjelmat
 
+Ohjelmia, joita saatat tarvita aineessa kuin aineessa tai jopa oikeassakin elämässä
+
 [[toc]]
 
 ## LibreOffice
@@ -24,8 +26,8 @@ LibreOffice on ilmainen toimisto-ohjelmisto mm. tekstinkäsittelyyn, taulukkolas
 2. Latauksen valmistuttua tuplaklikkaa asennusohjelmaa avataksesi sen. _Typical_-asennus on yleensä riittävä, ellet halua itse vaikuttaa esimerkiksi asennettavaan kielivalikoimaan, tai asentaa vain osan LibreOfficen ohjelmista. Lue mitä asennusohjelma sinulta kysyy
 
 ::: warning Kieli
-Ellei asennusohjelman kieli ole suomi, voi olla ettei se tunnistanut kieltäsi oikein. Vaihtaaksesi kielen, valitse asennusvaihtoehdoista _Custom_ ja etsi valikoista _Finnish_
-![LibreOffice Typical](/images/Libre3.png)
+Ellei asennusohjelman kieli ole suomi, voi olla ettei se tunnistanut kieltäsi oikein, eikä libreoffice tällöin asenna suomen kieltä ollenkaan. Vaihtaaksesi kielen, valitse asennusvaihtoehdoista _Custom_ ja etsi valikoista _Finnish_
+![LibreOffice kielenvaihto](/images/Libre3.png)
 :::
 
 

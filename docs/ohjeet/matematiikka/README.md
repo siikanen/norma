@@ -6,6 +6,8 @@ sidebar: auto
 
 Matematiikassa oleelliset ohjelmistot
 
+[[toc]]
+
 ## Texas Instruments TI-NSpire Student Software
 
 ### Mikä TI-NSpire CX CAS Student Software

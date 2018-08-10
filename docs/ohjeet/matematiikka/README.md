@@ -8,13 +8,13 @@ Matematiikassa oleelliset ohjelmistot
 
 [[toc]]
 
-## Texas Instruments TI-NSpire CX CAS Student Software
+## Texas Instruments TI-NSpire CX CAS Student Software?
 
 <p align="center"><img src="/images/texasti.jpg" alt="Texasti-Logo" height="200"><img src="/images/NSpire.gif" alt="Nspire"></p>
 
 ### Mikä TI-NSpire CX CAS Student Software?
 
-TI-NSpire CX CAS Student Software on YTL:n ylioppilaskirjoituksissa käytettävksi hyväksymän TI-Nsipre CX CAS-laskimen tietokoneversio. TI-NSpire CX CAS Student Software löytyy myös abitin ohjelmistovalikoimasta, joten seon käytettävissä myös koetilanteessa. Ja kyllä, tämä on juuri se mistä tarunhohtoinen pelastajamme _solve()_-komento löytyy 😉
+TI-NSpire CX CAS Student Software on YTL:n ylioppilaskirjoituksissa käytettävksi hyväksymän TI-Nsipre CX CAS-laskimen tietokoneversio. TI-NSpire CX CAS Student Software löytyy myös abitin ohjelmistovalikoimasta, joten seon käytettävissä myös koetilanteessa. Ja kyllä, tämä on juuri se mistä tarunhohtoinen pelastajamme `solve()` -komento löytyy 😉
 
 ### Asennus
 

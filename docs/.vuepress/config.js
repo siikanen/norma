@@ -56,11 +56,13 @@ module.exports = {
         ["link", {rel:"manifest", href:"/site.webmanifest?v=bOMOYElOBj"}],
         ["link", {rel:"mask-icon", href:"/safari-pinned-tab.svg?v=bOMOYElOBj", color:"#3eaf7c"}],
         ["meta", {name:"msapplication-TileColor", content:"#da532c"}],
-        ["meta", {name:"theme-color", content:"#ffffff"}],
+        ["meta", {name:"theme-color", content:"#3eaf7c"}],
 
         ["meta", {name:"mobile-web-app-capable", content:"yes"}],
         ["meta", {name:"apple-mobile-web-app-capable", content:"yes"}],
         ["meta", {name:"application-name", content:"Norma"}],
-        ["meta", {name:"apple-mobile-web-app-title", content:"Norma"}]
+        ["meta", {name:"apple-mobile-web-app-title", content:"Norma"}],
+
+        ["link", {rel:"preload", href:"/hero.png", as:"image", type:"image/png"}]
     ]
 };

@@ -22,13 +22,6 @@ module.exports = {
         docsDir: 'docs',
         docsBranch: 'master',
 
-        serviceWorker: {
-            updatePopup: { 
-               message: "Uutta sisältöä saatavilla", 
-               buttonText: "Päivitä sivu" 
-             }
-        },
-
         locales: {
             "/": {
                 lastUpdated: 'Päivitetty',               

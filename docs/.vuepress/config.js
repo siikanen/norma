@@ -1,4 +1,4 @@
-module.exports = {  
+module.exports = {    
     locales: {
         "/": {
             lang: "fi",
@@ -20,7 +20,13 @@ module.exports = {
         repoLabel: 'Github',
         docsRepo: 'siikanen/norma',
         docsDir: 'docs',
-        docsBranch: 'master'
+        docsBranch: 'master',
+
+        serviceWorker: {
+            updatePopup: { 
+               message: "Uutta sisältöä saatavilla", 
+               buttonText: "Päivitä sivu" 
+             }
         },
 
         locales: {
@@ -37,16 +43,10 @@ module.exports = {
                         ]
                     },
                     {text:"Osallistu kehittämiseen", link:"/osallistu/"}
-                ],
-
-                serviceWorker: {
-                    updatePopup: { 
-                       message: "Uutta sisältöä saatavilla", 
-                       buttonText: "Päivitä sivu" 
-                       }
-                },
+                ]
             },
         },
+    },
 
     head: [
         ["link", {rel:"apple-touch-icon", sizes:"180x180", href:"/apple-touch-icon.png?v=bOMOYElOBj"}],

@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/siikanen/norma#readme",
   "dependencies": {
-    "vuepress": "^0.10.0",
+    "vuepress": "^0.10.2",
     "vuepress-theme-vue": "^1.0.3"
   }
 }
